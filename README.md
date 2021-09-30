@@ -4,7 +4,7 @@
 [![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-#### 👨‍🎓 *Hello! I'm Shaked, a Computer Science and Economy student in Ariel University. (2nd year)*
+#### 👨‍🎓 *Hello! I'm Shaked, a Computer Science and Economy student in Ariel University. (3rd year)*
 ##### 💬 Contact me:
 <a href="https://www.linkedin.com/in/shaked-aviad-584947199/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:shakedaviad50@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
 
